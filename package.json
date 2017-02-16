@@ -1,0 +1,13 @@
+{
+    "name": "nodeIntro",
+    "version": "0.0.2",
+    "description": " ",
+    "author": {
+        "name": "Michael Pimlott",
+        "email": "mpimlott84@gmail.com",
+        "url": "michaelpimlott.com"
+    },
+    "dependencies": {
+        "express": "*"
+    }
+}
